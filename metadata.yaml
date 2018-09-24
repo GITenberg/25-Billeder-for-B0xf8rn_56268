@@ -1,0 +1,25 @@
+_repo: 25-Billeder-for-B0xf8rn_56268
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Simonsen, S.
+    gutenberg_agent_id: '48751'
+    url: http://www.gutenberg.org/2009/agents/48751
+creator:
+  author:
+    agent_name: Winther, Christian
+    gutenberg_agent_id: '48750'
+    url: http://www.gutenberg.org/2009/agents/48750
+description: ''
+gutenberg_issued: '2017-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56268'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 25 Billeder for Børn
+url: http://www.gutenberg.org/ebooks/56268
