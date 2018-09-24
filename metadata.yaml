@@ -1,16 +1,21 @@
 _repo: 25-Billeder-for-B0xf8rn_56268
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Simonsen, S.
     gutenberg_agent_id: '48751'
     url: http://www.gutenberg.org/2009/agents/48751
+covers:
+- cover_type: archival
+  image_path: 56268-h/images/cover.jpg
 creator:
   author:
     agent_name: Winther, Christian
     gutenberg_agent_id: '48750'
     url: http://www.gutenberg.org/2009/agents/48750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56268#25-Billeder-for-B0xf8rn
 gutenberg_issued: '2017-12-30'
 gutenberg_type: Text
 identifiers:
